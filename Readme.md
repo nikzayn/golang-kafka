@@ -6,3 +6,9 @@
 
 # Project
 - Building a real time notification system using golang and kafka as a practice project to get more familiar with the distributed system.
+
+# Technologies used
+- Go
+- Gin
+- Docker
+- Kafka
